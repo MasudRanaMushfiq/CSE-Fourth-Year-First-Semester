@@ -1,0 +1,89 @@
+data science course
+data analysis project
+data mining basics
+dataset preparation guide
+dataset processing step
+dataset search example
+
+parallel computing introduction
+parallel string matching
+gpu programming tutorial
+cuda kernel example
+cuda memory optimization
+thread block example
+
+hello world program
+simple text file
+this is a test string
+longest common subsequence example
+string matching algorithm
+substring search demo
+
+apple banana mango
+banana mango orange
+fresh fruits market
+vegetable shop nearby
+rice dal curry
+home cooking recipe
+
+rajshahi university campus
+computer science department
+software engineering lab
+final year project work
+thesis research paper
+bioinformatics research lab
+
+protein sequence analysis
+gene expression dataset
+medical diagnosis report
+chronic kidney disease study
+ckd biomarker identification
+patient health record
+
+machine learning basics
+machine learning with cuda
+machine learning project
+deep learning tutorial
+deep neural network
+learning cuda parallel programming
+
+high performance computing system
+distributed memory architecture
+shared memory model
+openmp parallel loop
+mpi communication example
+process synchronization
+
+cloud computing platform
+big data analytics
+database management seesion
+nosql storage example
+api integration tutorial
+backend service design
+
+natural language processing
+text classification example
+sentiment analysis model
+tokenization step
+feature extraction method
+vector space model
+
+image processing algorithm
+edge detection technique
+object recognition system
+computer vision basics
+opencv example project
+camera calibration method
+
+cyber security basics
+network packet analysis
+encryption decryption demo
+hash function example
+firewall configuration guide
+intrusion detection system
+
+embedded systems programming
+stm32 microcontroller example
+uart communication demo
+spi i2c interface
+real time operating s
