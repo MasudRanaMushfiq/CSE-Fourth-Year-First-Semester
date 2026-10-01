@@ -1,0 +1,14 @@
+Course Book: Microcontroller Interfacing by Ramesh Gonker 
+
+Section A:
+Arofin Sir only reads slides and also skips some content of the slides, so only the content of the slides read by sir is important.
+(No need to study slide 12 and 13)
+
+Section B:
+Rokon Sir does not read anything to mention. He takes presentations from each group and said he will make questions on all these presentations.
+- I2c, SPI, UART/USART
+- CRC, RTC, Timer
+- NVIC 
+
+Must see CT questions properly.
+
