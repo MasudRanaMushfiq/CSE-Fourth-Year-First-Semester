@@ -1,8 +1,0 @@
-Distributed Systems Lab list ::
-
-Matrix multiplication 
-(100x100 ba er cheyeo boro 2 ta matrix multiply krte hbe CUDA and MPI diye(
-
-String Searching 
-(10-15 ta file thakbe sekhan theke ekta specific string, or per line a 2 ta string khuje ber krte hbe with MPI & CUDA)
-
