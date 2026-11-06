@@ -12,7 +12,9 @@
 - 📝 **Collected Notes** – From teachers, seniors, and online sources  
 - ✍️ **Personal & Friends' Notes** – Simplified explanations and summaries  
 - 📊 **Class Slides** – Provided by instructors  
+- 📚 **Course Syllabi** – Syllabus and course outlines  
 - 📜 **Previous Year Questions** – Past exam papers  
+- 📝 **Semester Final Questions** – Theory and lab questions from semester final examinations  
 - ✅ **Solved Questions** – With clear, step-by-step answers  
 - 🧪 **Class Test Questions & Solutions**
 
